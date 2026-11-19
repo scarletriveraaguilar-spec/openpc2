@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.infrastructure.events;
+package com.acme.center.platform.shared.infrastructure.events;
 
 import com.acme.center.platform.shared.domain.model.aggregates.AbstractDomainAggregateRoot;
 import org.jspecify.annotations.NullMarked;

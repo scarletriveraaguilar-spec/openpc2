@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.interfaces.rest.resources;
+package com.acme.center.platform.shared.interfaces.rest.resources;
 
 /**
  * Resource used for simple success or informational REST responses.

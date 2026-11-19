@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.infrastructure.i18n.configuration;
+package com.acme.center.platform.shared.infrastructure.i18n.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

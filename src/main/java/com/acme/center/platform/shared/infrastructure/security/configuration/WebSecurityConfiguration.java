@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.infrastructure.security.configuration;
+package com.acme.center.platform.shared.infrastructure.security.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

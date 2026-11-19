@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.infrastructure.persistence.jpa.entities;
+package com.acme.center.platform.shared.infrastructure.persistence.jpa.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.infrastructure.concurrency.loom.configuration;
+package com.acme.center.platform.shared.infrastructure.concurrency.loom.configuration;
 
 import org.jspecify.annotations.NullMarked;
 import org.springframework.context.annotation.Bean;

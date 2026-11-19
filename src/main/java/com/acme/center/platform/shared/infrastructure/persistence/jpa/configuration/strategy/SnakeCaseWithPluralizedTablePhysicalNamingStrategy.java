@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.infrastructure.persistence.jpa.configuration.strategy;
+package com.acme.center.platform.shared.infrastructure.persistence.jpa.configuration.strategy;
 
 import org.hibernate.boot.model.naming.Identifier;
 import org.hibernate.boot.model.naming.PhysicalNamingStrategy;

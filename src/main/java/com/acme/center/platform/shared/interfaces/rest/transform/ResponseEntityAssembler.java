@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.interfaces.rest.transform;
+package com.acme.center.platform.shared.interfaces.rest.transform;
 
 import com.acme.center.platform.shared.application.result.ApplicationError;
 import com.acme.center.platform.shared.application.result.Result;

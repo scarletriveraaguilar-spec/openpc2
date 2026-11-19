@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.domain.model.aggregates;
+package com.acme.center.platform.shared.domain.model.aggregates;
 
 import org.jspecify.annotations.NullMarked;
 import org.springframework.data.domain.AbstractAggregateRoot;

@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.application.result;
+package com.acme.center.platform.shared.application.result;
 
 import org.jspecify.annotations.NullMarked;
 

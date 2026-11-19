@@ -1,10 +1,10 @@
-package com.acme.center.plataform;
+package com.acme.center.platform;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Pc2ApplicationTests {
+class OpenTreatmentPlatformApplicationTests {
 
     @Test
     void contextLoads() {

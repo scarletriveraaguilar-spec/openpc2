@@ -1,4 +1,4 @@
-package com.acme.center.plataform.shared.interfaces.rest;
+package com.acme.center.platform.shared.interfaces.rest;
 
 import com.acme.center.platform.shared.application.result.ApplicationError;
 import com.acme.center.platform.shared.interfaces.rest.transform.ProblemDetailFromApplicationErrorAssembler;
